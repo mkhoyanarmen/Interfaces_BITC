@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces_BITC", "Interfaces_BITC\Interfaces_BITC.csproj", "{42101A6D-4767-46D8-B24D-B99B23066174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2_BITC", "Interfaces2_BITC\Interfaces2_BITC.csproj", "{559C795E-E0FF-483B-BD8A-34573C8AF4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42101A6D-4767-46D8-B24D-B99B23066174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42101A6D-4767-46D8-B24D-B99B23066174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42101A6D-4767-46D8-B24D-B99B23066174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42101A6D-4767-46D8-B24D-B99B23066174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559C795E-E0FF-483B-BD8A-34573C8AF4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559C795E-E0FF-483B-BD8A-34573C8AF4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559C795E-E0FF-483B-BD8A-34573C8AF4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559C795E-E0FF-483B-BD8A-34573C8AF4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADEBAEA-B9BB-4C36-AB99-3E68F2CAA098}
+	EndGlobalSection
+EndGlobal
